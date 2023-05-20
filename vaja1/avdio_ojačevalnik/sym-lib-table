@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "avdio_ojačevalnik-rescue")(type "Legacy")(uri "${KIPRJMOD}/avdio_ojačevalnik-rescue.lib")(options "")(descr ""))
+)

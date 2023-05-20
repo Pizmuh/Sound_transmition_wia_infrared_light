@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "PZIp-rescue")(type "KiCad")(uri "${KIPRJMOD}/PZIp-rescue.kicad_sym")(options "")(descr ""))
+)
